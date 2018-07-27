@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 20745f3041ca9e241a50fd2923f51743
+  productGUID: 021a42cd5f01378439108ae2fa66539c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "Schwalmbr\xE4u"
+  productName: Fass Interface
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -646,8 +646,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 74c4e311-1cb8-4fd0-a10b-9f3392a60d25
-  projectName: "Schwalmbr\xE4u (1)"
+  cloudProjectId: d7694e5c-85a2-4944-8133-24cfc2c69a8d
+  projectName: Fass Interface
   organizationId: bruderundbruder
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
